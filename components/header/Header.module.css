@@ -1,0 +1,13 @@
+.container-login{
+    background-color: #02aef3;
+    color: #02aef3;
+    border: solid 2px #02aef3;
+    text-align: right;
+    padding: 5px;
+}
+.menu{
+    background-color: #02aef3;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+}
